@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-I am a data scientist working in Chicago, IL.
+I am Matt Norgren (He/Him), a financial professional transitioning industries to data science, working in Chicago, IL.
 
-- 🔭 I’m currently working with Dylan Smith on a natural language processing project related to U.S. Congressional speeches, bill text and tweets in order to determine what our politicians are spending their time on and trying to create an accountability mechanism. 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- Languages: MSFT SQL, Python, R and Spark
+- Focuses: Natural Language Processing, Bayesian Inference, and Reinforcement Learning
+- Visualization software includes: Tableau & Power BI 
 
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+There is always more to learn.
+
+## Current Project:
+
+🔭 I’m currently working with Dylan Smith on a natural language processing solution to determine what U.S. congressional members are spending their time on, in an effort to create an accountability mechanism. This is designed and written in Spark and takes advantage of the newest generation of SparkNLP. We have a research paper written - more to come.
 
 ## Connect with me: 
 
