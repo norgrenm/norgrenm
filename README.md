@@ -4,7 +4,7 @@ I am Matt Norgren (He/Him), a financial professional transitioning industries to
 
 - Languages: MSFT SQL, Python, R and Spark
 - Focuses: Natural Language Processing, Bayesian Inference, and Reinforcement Learning
-- Visualization software includes: Tableau & Power BI 
+- Visualization software includes: Tableau, Power BI & NEO4J
 
 There is always more to learn.
 
