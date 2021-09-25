@@ -10,7 +10,7 @@ There is always more to learn.
 
 ## Current Project:
 
-🔭 I’m currently working with Dylan Smith on a natural language processing solution to determine what U.S. congressional members are spending their time on, in an effort to create an accountability mechanism. This is designed and written in Spark and takes advantage of the newest generation of SparkNLP. We have a research paper written - more to come.
+🔭 I’m currently working with a partner on a natural language processing solution to determine what U.S. congressional members are spending their time on, in an effort to create an accountability mechanism. This is designed and written in Spark and takes advantage of the newest generation of SparkNLP. We have a research paper written - more to come.
 
 ## Connect with me: 
 
