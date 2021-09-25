@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-<!--
-**norgrenm/norgrenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist working in Chicago, IL.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working with Dylan Smith on a natural language processing project related to U.S. Congressional speeches, bill text and tweets in order to determine what our politicians are spending their time on and trying to create an accountability mechanism. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthewnorgren/)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
--->
