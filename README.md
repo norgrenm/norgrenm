@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Matt Norgren (He/Him), a Senior Business Analyst & Data Scientist, working in Chicago, IL.
+I am Matt Norgren (He/Him), a Senior Business Analyst & Data Scientist.
 
 - Languages: MSFT SQL, Python, R and Spark
 - Focuses: Natural Language Processing, Bayesian Inference, and Reinforcement Learning
